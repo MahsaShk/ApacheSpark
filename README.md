@@ -6,4 +6,5 @@ Pyspark setup on Amazon AWS EC2
 <h3>References:</h3>
 
 Spark and python for big data with pyspark, Udemy course
+
 http://spark.apache.org/
