@@ -1,10 +1,19 @@
 <h1>ApacheSpark</h1> 
-Apache Spark step by step guidance using pyspark
+
+Pyspark DataFrame
 
 Pyspark setup on Amazon AWS EC2
 
+Pyspark MLlib (Machine learning library)
+
+Projects based on machine learning and pyspark
+
+
+
 <h3>References:</h3>
 
-Spark and python for big data with pyspark, Udemy course
+Apache Spark Documentation available at http://spark.apache.org/
 
-http://spark.apache.org/
+Spark and python for big data with pyspark, Udemy
+
+
