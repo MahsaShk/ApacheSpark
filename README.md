@@ -1,6 +1,6 @@
 <h1>ApacheSpark</h1> 
 
-This repository introduces Pyspark by example. 
+This repository introduces **Pyspark by example**. 
 
 In addition, the pipelines used to solve some machine learning consulting projects are presented.
 
@@ -16,11 +16,12 @@ Below is the list of the Pyspark materials:
 
 ## Projects based on machine learning and pyspark:
 
-<a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>
+<a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>:
+In this project, parameter tunning using CrossValidator is used.
 
-<a href="Logistic_Regression_Consulting_Project.ipynb"> Logistic regression consulting project </a>
+<a href="Logistic_Regression_Consulting_Project.ipynb"> Logistic regression consulting project </a>:
 
-
+In this project, imbalanced class is handled using weightCol in LogisticRegression.
 
 
 <h3>References:</h3>
