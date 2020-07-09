@@ -8,7 +8,7 @@ Pyspark MLlib (Machine learning library)
 
 Projects based on machine learning and pyspark
 
-
+<a href="Logistic_Regression_Consulting_Project.ipynb"> 
 
 <h3>References:</h3>
 
