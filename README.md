@@ -1,14 +1,15 @@
 <h1>ApacheSpark</h1> 
 
-Pyspark DataFrame
 
-Pyspark setup on Amazon AWS EC2
+<a href="pyspark-test.ipynb">Pyspark RDD and DataFrame</a>
+<a href="dataFrame-basics.ipynb">Pyspark DataFrame Explanation</a>
+<a href="PySpark-AWS-EC2.ipynb">Pyspark setup on Amazon AWS EC2 </a>
 
-Pyspark MLlib (Machine learning library)
+<a href="pyspark-MLlib.ipynb"> Pyspark MLlib (Machine learning library) </a>
+## Projects based on machine learning and pyspark:
+<a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>
+<a href="Logistic_Regression_Consulting_Project.ipynb"> Logistic regression consulting project </a>
 
-Projects based on machine learning and pyspark
-
-<a href="Logistic_Regression_Consulting_Project.ipynb"> 
 
 <h3>References:</h3>
 
