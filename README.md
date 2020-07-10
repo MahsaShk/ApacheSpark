@@ -14,7 +14,7 @@ Below is the list of the Pyspark materials:
 
 <a href="pyspark-MLlib.ipynb"> Introduction to Pyspark MLlib (Machine learning library) </a>
 
-## Projects based on machine learning and pyspark:
+## Machine learning projects using Pyspark MLlib:
 
 <a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>:
 
@@ -40,6 +40,6 @@ Kaggle open datasets available at https://www.kaggle.com/docs/datasets
 
 Spark and python for big data with pyspark, Udemy
 
-Advanced Analytics with Spark, 2nd Edition by Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills
+Advanced Analytics with Spark, 2nd Edition, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills
 
 
