@@ -14,15 +14,15 @@ Below is the list of the Pyspark materials:
 
 ## Machine learning projects using Pyspark MLlib:
 
-# <a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>:
+### <a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>:
 
 In this project, parameter tunning using CrossValidator is used. Also, categorical features are handled.
 
-# <a href="Logistic_Regression_Consulting_Project.ipynb"> Logistic regression consulting project </a>:
+### <a href="Logistic_Regression_Consulting_Project.ipynb"> Logistic regression consulting project </a>:
 
 In this project, **imbalanced data** issue is resolved using weightCol in LogisticRegression. Also, a datetime feature is processed. StandardScaler was used to normalize each feature to unit standard deviation and zero mean.
 
-# <a href="Tree_Methods_Consulting_Project.ipynb"> Tree methods consulting project (Decisiont ree, Random Forest, and GBT Classifiers)</a>:
+### <a href="Tree_Methods_Consulting_Project.ipynb"> Tree methods consulting project (Decisiont ree, Random Forest, and GBT Classifiers)</a>:
 
 This project focuses on feature importance computation. In this project, the **imbalanced data** issue is handled by using boosting techniques. In general, boosting algorithms are good choices for class imbalanced data.
 
