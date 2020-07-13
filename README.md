@@ -1,6 +1,6 @@
 <h1>ApacheSpark</h1> 
 
-This repository introduces **Pyspark by example** and provides solutions to some machine learning consulting projects.
+This repository introduces **Pyspark by example** and provides solutions to some **machine learning consulting projects**.
 
 Below is the list of the Pyspark materials:
 
