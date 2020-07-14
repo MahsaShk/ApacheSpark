@@ -29,6 +29,9 @@ This project focuses on feature importance computation. In this project, the **i
 For better results, one can use synthetic sampling methods like SMOTE and MSMOTE along with advanced boosting methods like Gradient boosting and XG Boost.
 
 
+### <a href="Recommender_System_Project.ipynb"> Recommender system project</a>:
+
+This project provides recommendation on [movielens dataset](https://grouplens.org/datasets/movielens/) based on collaborative filtering approach.
 
 ## References:
 
@@ -41,3 +44,4 @@ Spark and python for big data with pyspark, Udemy
 Advanced Analytics with Spark, 2nd Edition, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills
 
 
+<!-- Frequent pattern mining -->
