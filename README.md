@@ -1,8 +1,8 @@
 <h1>ApacheSpark</h1> 
 
-This repository introduces **Pyspark by example** and provides solutions to some **machine learning consulting projects**.
+This repository introduces **Pyspark by example** and provides solutions to some **machine learning consulting projects**. The Spark version 3.0.0 was used in this repository.
 
-Below is the list of the Pyspark materials:
+### List of Pyspark materials:
 
 <a href="pyspark-test.ipynb">Introduction to Pyspark RDD and DataFrame</a>
 
@@ -12,7 +12,7 @@ Below is the list of the Pyspark materials:
 
 <a href="pyspark-MLlib.ipynb"> Introduction to Pyspark MLlib (Machine learning library) </a>
 
-## Machine learning projects using Pyspark MLlib:
+## Machine learning projects using Pyspark ML library:
 
 ### <a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>:
 
@@ -33,15 +33,24 @@ For better results, one can use synthetic sampling methods like SMOTE and MSMOTE
 
 This project provides recommendation on [movielens dataset](https://grouplens.org/datasets/movielens/) based on collaborative filtering approach.
 
+
+### <a href="NLP_Project.ipynb"> Natural Language Processing (NLP) project</a>:
+
+In this project, an SMS Spam detection is designed using <a href="NLP_Tools.ipynb"> spark NLP tools</a>.
+
+Introduction to Spark NLP tools along with some examples are presented <a href="NLP_Tools.ipynb"> here</a>.
+
+The design pipline includes: **RegexTokenizer**, **StopWordsRemover**, **TF-IDF** based feature extraction, Naive Bayes classifier.
+
 ## References:
 
-Apache Spark Documentation available at http://spark.apache.org/
+[1] Apache Spark Documentation available at http://spark.apache.org/
 
-Kaggle open datasets available at https://www.kaggle.com/docs/datasets
+[2] Kaggle open datasets available at https://www.kaggle.com/docs/datasets
 
-Spark and python for big data with pyspark, Udemy
+[3] Spark and python for big data with pyspark, Udemy
 
-Advanced Analytics with Spark, 2nd Edition, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills
+[4] Advanced Analytics with Spark, 2nd Edition, Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills
 
 
 <!-- Frequent pattern mining -->
