@@ -1,8 +1,10 @@
 <h1>ApacheSpark</h1> 
 
-This repository introduces **Pyspark by example** and provides solutions to some **machine learning consulting projects**. The Spark version 3.0.0 was used in this repository.
+This repository introduces **Pyspark by example** and provides solutions to some **machine learning consulting projects**. In addition, a **Spark streaming project** is presented at the end. 
 
-### List of Pyspark materials:
+NB. The Spark version 3.0.0 is used in this repository.
+
+## List of Pyspark materials:
 
 <a href="pyspark-test.ipynb">Introduction to Pyspark RDD and DataFrame</a>
 
