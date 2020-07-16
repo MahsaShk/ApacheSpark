@@ -42,6 +42,14 @@ Introduction to Spark NLP tools along with some examples are presented <a href="
 
 The design pipline includes: **RegexTokenizer**, **StopWordsRemover**, **TF-IDF** based feature extraction, Naive Bayes classifier.
 
+
+## Spark streaming:
+
+### <a href="Spark-Streaming.ipynbb"> COVID-19 Twitter Analysis using Spark Streeming</a>:
+
+This project creates an application that plots out the popularity of tags associated with incoming tweets streamed live from Twitter. 
+
+
 ## References:
 
 [1] Apache Spark Documentation available at http://spark.apache.org/
