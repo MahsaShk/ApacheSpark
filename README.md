@@ -14,6 +14,8 @@ NB. The Spark version 3.0.0 is used in this repository.
 
 <a href="pyspark-MLlib.ipynb"> Introduction to Pyspark MLlib (Machine learning library) </a>
 
+<a href="pyspark-join-DataFrames.ipynb"> Joining DataFrames in Pyspark </a>
+
 ## Machine learning projects using Pyspark ML library:
 
 ### <a href="Linear_Regression_Consulting_Project.ipynb"> Linear regression consulting project </a>:
